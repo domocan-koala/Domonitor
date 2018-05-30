@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/pool_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/grenier_background"
+    tools:context=".Fragment.Levels.GrenierFragment">
+
+    <ImageButton
+        android:id="@+id/ibGrenierGoRdc"
+        android:layout_width="300dp"
+        android:layout_height="69dp"
+        android:src="@drawable/bottom_icon" />
+</FrameLayout>

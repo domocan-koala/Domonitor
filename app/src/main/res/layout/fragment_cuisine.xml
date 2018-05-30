@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/cuisine_fragment"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/cuisine_background"
+    tools:context=".Fragment.Rooms.CuisineFragment">
+
+    <ImageButton
+        android:id="@+id/ibCuisineBack"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:src="@drawable/back_icon" />
+</FrameLayout>
